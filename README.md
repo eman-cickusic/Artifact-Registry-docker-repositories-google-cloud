@@ -11,6 +11,11 @@ Artifact Registry is a secure, scalable, and fully managed service for storing, 
 - Push an image to the repository
 - Pull the image from the repository
 
+## Video solution
+
+https://www.youtube.com/watch?v=CgiuLYfL_3A
+
+
 ## Prerequisites
 
 - Google Cloud account with a project
